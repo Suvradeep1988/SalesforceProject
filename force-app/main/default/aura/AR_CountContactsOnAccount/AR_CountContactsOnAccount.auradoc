@@ -1,0 +1,9 @@
+<aura:documentation>
+    <aura:description>
+        <code>c:AR_CountContactsOnAccount</code> component used to display count of contacts on account which are related to master record type.
+    </aura:description>
+	
+	<aura:example name="CountOfContact" ref="c:AR_CountContactsOnAccount" label="Label">
+		
+	</aura:example>
+</aura:documentation>
